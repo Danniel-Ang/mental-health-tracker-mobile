@@ -112,6 +112,7 @@ class _MoodEntryFormPageState extends State<MoodEntryFormPage> {
               ),
             ),
             Align(
+              // Im sorry for this code, I'm not good at designing
               alignment: Alignment.bottomCenter,
               child: Padding(
                 padding: const EdgeInsets.all(8.0),
